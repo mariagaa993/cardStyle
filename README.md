@@ -1,5 +1,5 @@
 # cardStyle
 
-Link: https://mariagaa993.github.io/cardStyle/cardCruise.html
+Link: https://mariagaa993.github.io/cardStyle/cardCruise
 
 *** NO responsive ***
